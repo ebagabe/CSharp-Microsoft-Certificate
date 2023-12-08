@@ -1,0 +1,15 @@
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.sourcelink.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\bin\Debug\net8.0\IfElse.exe
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\bin\Debug\net8.0\IfElse.deps.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\bin\Debug\net8.0\IfElse.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\bin\Debug\net8.0\IfElse.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\IfElse\obj\Debug\net8.0\ref\IfElse.dll
