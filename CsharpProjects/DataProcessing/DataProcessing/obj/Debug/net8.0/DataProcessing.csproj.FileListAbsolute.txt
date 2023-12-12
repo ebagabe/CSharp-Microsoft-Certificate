@@ -1,0 +1,15 @@
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\bin\Debug\net8.0\DataProcessing.exe
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\bin\Debug\net8.0\DataProcessing.deps.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\bin\Debug\net8.0\DataProcessing.runtimeconfig.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\bin\Debug\net8.0\DataProcessing.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\bin\Debug\net8.0\DataProcessing.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.AssemblyInfoInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.AssemblyInfo.cs
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.csproj.CoreCompileInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.sourcelink.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\refint\DataProcessing.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\DataProcessing.genruntimeconfig.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\CsharpProjects\DataProcessing\DataProcessing\obj\Debug\net8.0\ref\DataProcessing.dll
