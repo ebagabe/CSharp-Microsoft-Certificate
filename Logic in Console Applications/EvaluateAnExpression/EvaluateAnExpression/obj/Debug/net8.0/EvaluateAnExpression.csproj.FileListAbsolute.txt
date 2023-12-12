@@ -1,0 +1,15 @@
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\bin\Debug\net8.0\EvaluateAnExpression.exe
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\bin\Debug\net8.0\EvaluateAnExpression.deps.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\bin\Debug\net8.0\EvaluateAnExpression.runtimeconfig.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\bin\Debug\net8.0\EvaluateAnExpression.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\bin\Debug\net8.0\EvaluateAnExpression.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.GeneratedMSBuildEditorConfig.editorconfig
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.AssemblyInfoInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.AssemblyInfo.cs
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.csproj.CoreCompileInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.sourcelink.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\refint\EvaluateAnExpression.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\EvaluateAnExpression.genruntimeconfig.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Logic in Console Applications\EvaluateAnExpression\EvaluateAnExpression\obj\Debug\net8.0\ref\EvaluateAnExpression.dll
