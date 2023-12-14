@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListExercise02", "ListExercise02.csproj", "{951E8697-65F9-464E-9618-703CE20DF741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951E8697-65F9-464E-9618-703CE20DF741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951E8697-65F9-464E-9618-703CE20DF741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951E8697-65F9-464E-9618-703CE20DF741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951E8697-65F9-464E-9618-703CE20DF741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
