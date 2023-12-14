@@ -1,0 +1,15 @@
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\bin\Debug\net8.0\Matriz01.exe
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\bin\Debug\net8.0\Matriz01.deps.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\bin\Debug\net8.0\Matriz01.runtimeconfig.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\bin\Debug\net8.0\Matriz01.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\bin\Debug\net8.0\Matriz01.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.GeneratedMSBuildEditorConfig.editorconfig
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.AssemblyInfoInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.AssemblyInfo.cs
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.csproj.CoreCompileInputs.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.sourcelink.json
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\refint\Matriz01.dll
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.pdb
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\Matriz01.genruntimeconfig.cache
+D:\English-DeveloperMode\CSharp Microsoft Certificate\Course\Matriz01\Matriz01\obj\Debug\net8.0\ref\Matriz01.dll
